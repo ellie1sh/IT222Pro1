@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<medicines>
+    <medicine>
+        <id>1</id>
+        <pharmacyId>1</pharmacyId>
+        <brandName>Biogesic</brandName>
+        <genericName>Paracetamol</genericName>
+        <description>For fever and mild pain relief</description>
+        <dosage>500mg</dosage>
+        <dosageForm>Tablet</dosageForm>
+        <price>5.5</price>
+        <quantityAvailable>88</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>OTC Drugs</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>2</id>
+        <pharmacyId>1</pharmacyId>
+        <brandName>Neozep</brandName>
+        <genericName>Phenylephrine + Chlorphenamine</genericName>
+        <description>For colds and flu symptoms</description>
+        <dosage>500mg</dosage>
+        <dosageForm>Tablet</dosageForm>
+        <price>7.0</price>
+        <quantityAvailable>80</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>OTC Drugs</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>3</id>
+        <pharmacyId>1</pharmacyId>
+        <brandName>Amoxicillin</brandName>
+        <genericName>Amoxicillin</genericName>
+        <description>Antibiotic for bacterial infections</description>
+        <dosage>500mg</dosage>
+        <dosageForm>Capsule</dosageForm>
+        <price>15.0</price>
+        <quantityAvailable>50</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>Prescription</category>
+        <requiresPrescription>true</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>4</id>
+        <pharmacyId>2</pharmacyId>
+        <brandName>Dolfenal</brandName>
+        <genericName>Mefenamic Acid</genericName>
+        <description>For pain and inflammation</description>
+        <dosage>500mg</dosage>
+        <dosageForm>Capsule</dosageForm>
+        <price>12.0</price>
+        <quantityAvailable>60</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>OTC Drugs</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>5</id>
+        <pharmacyId>2</pharmacyId>
+        <brandName>Ceelin</brandName>
+        <genericName>Vitamin C</genericName>
+        <description>Vitamin C supplement for immunity</description>
+        <dosage>100mg</dosage>
+        <dosageForm>Syrup</dosageForm>
+        <price>95.0</price>
+        <quantityAvailable>40</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>Vitamins</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>6</id>
+        <pharmacyId>2</pharmacyId>
+        <brandName>Biogesic</brandName>
+        <genericName>Paracetamol</genericName>
+        <description>For fever and mild pain relief</description>
+        <dosage>500mg</dosage>
+        <dosageForm>Tablet</dosageForm>
+        <price>5.75</price>
+        <quantityAvailable>120</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>OTC Drugs</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>7</id>
+        <pharmacyId>3</pharmacyId>
+        <brandName>Medicol</brandName>
+        <genericName>Ibuprofen</genericName>
+        <description>For headache and body pain</description>
+        <dosage>200mg</dosage>
+        <dosageForm>Softgel</dosageForm>
+        <price>8.5</price>
+        <quantityAvailable>90</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>OTC Drugs</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+    <medicine>
+        <id>8</id>
+        <pharmacyId>3</pharmacyId>
+        <brandName>Solmux</brandName>
+        <genericName>Carbocisteine</genericName>
+        <description>For cough with phlegm</description>
+        <dosage>500mg</dosage>
+        <dosageForm>Capsule</dosageForm>
+        <price>9.0</price>
+        <quantityAvailable>70</quantityAvailable>
+        <quantityReserved>0</quantityReserved>
+        <category>OTC Drugs</category>
+        <requiresPrescription>false</requiresPrescription>
+    </medicine>
+</medicines>

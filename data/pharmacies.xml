@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pharmacies>
+    <pharmacy>
+        <id>1</id>
+        <name>Mercury Drug</name>
+        <address>123 Main Street, Manila</address>
+        <contactNumber>09171234567</contactNumber>
+        <email>mercury@email.com</email>
+        <description>Your trusted neighborhood pharmacy since 1945</description>
+        <status>APPROVED</status>
+    </pharmacy>
+    <pharmacy>
+        <id>2</id>
+        <name>Watsons Pharmacy</name>
+        <address>456 Health Ave, Quezon City</address>
+        <contactNumber>09181234567</contactNumber>
+        <email>watsons@email.com</email>
+        <description>Look good, feel great with Watsons</description>
+        <status>APPROVED</status>
+    </pharmacy>
+    <pharmacy>
+        <id>3</id>
+        <name>South Star Drug</name>
+        <address>789 Wellness Blvd, Makati</address>
+        <contactNumber>09191234567</contactNumber>
+        <email>southstar@email.com</email>
+        <description>Affordable medicines for everyone</description>
+        <status>APPROVED</status>
+    </pharmacy>
+</pharmacies>

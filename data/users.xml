@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <id>1</id>
+        <username>admin</username>
+        <password>admin123</password>
+        <fullName>System Administrator</fullName>
+        <email>admin@pharmacy.com</email>
+        <userType>ADMIN</userType>
+        <pharmacyId>-1</pharmacyId>
+        <isActive>true</isActive>
+    </user>
+    <user>
+        <id>2</id>
+        <username>mercury_pharm</username>
+        <password>pharm123</password>
+        <fullName>Juan Dela Cruz</fullName>
+        <email>juan@mercury.com</email>
+        <userType>PHARMACIST</userType>
+        <pharmacyId>1</pharmacyId>
+        <isActive>true</isActive>
+    </user>
+    <user>
+        <id>3</id>
+        <username>watsons_pharm</username>
+        <password>pharm123</password>
+        <fullName>Maria Santos</fullName>
+        <email>maria@watsons.com</email>
+        <userType>PHARMACIST</userType>
+        <pharmacyId>2</pharmacyId>
+        <isActive>true</isActive>
+    </user>
+    <user>
+        <id>4</id>
+        <username>resident</username>
+        <password>user123</password>
+        <fullName>Pedro Penduko</fullName>
+        <email>pedro@email.com</email>
+        <userType>RESIDENT</userType>
+        <pharmacyId>-1</pharmacyId>
+        <isActive>true</isActive>
+    </user>
+</users>
